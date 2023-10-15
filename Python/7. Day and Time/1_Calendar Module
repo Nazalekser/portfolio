@@ -1,0 +1,16 @@
+# You are given a date. Your task is to find what the day is on that date.
+# Input Format
+# A single line of input containing the space separated month, day and year, respectively, in
+# Output Format
+# Output the correct day in capital letters.
+
+import calendar
+month, day, year = map(int, input().split())
+weekday_num = calendar.weekday(year, month, day)
+weekday_dict = {0: 'MONDAY', 1: 'TUESDAY', 2: 'WEDNSDAY', 3: 'THURSDAY', 4: 'FRIDAY', 5: 'SATURDAY', 6: 'SUNDAY'}
+print(weekday_dict[weekday_num])
+
+# import calendar
+
+# month, day, year = map(int, input().split())
+# print(calendar.day_name[calendar.weekday(year, month, day)].upper())
