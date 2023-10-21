@@ -1,20 +1,24 @@
 The goal
+
 The goal of the Lunar Lander environment (using OpenAI's Gym Library) is to land the lunar lander safely on the landing pad, which is designated by two flag poles and its center is at coordinates (0,0) but the lander is also allowed to land outside of the landing pad. The lander starts at the top center of the environment with a random initial force applied to its center of mass and has infinite fuel. The environment is considered solved if you get 200 points.
 
 Action Space
+
 The agent has four discrete actions available: do nothing, fire right engine, fire main engine, fire left engine.
 
 Observation Space
+
 The agent's observation space consists of a state vector with 8 variables: its (𝑥,𝑦) coordinates, linear velocities (𝑥˙,𝑦˙), angle 𝜃, angular velocity 𝜃˙, two booleans, 𝑙 and 𝑟, that represent whether each leg is in contact with the ground or not.
 
 Rewards
+
 The total reward of an episode is the sum of the rewards for all the steps within that episode. For each step, the reward:
-    is increased/decreased the closer/further the lander is to the landing pad.
-    is increased/decreased the slower/faster the lander is moving.
-    is decreased the more the lander is tilted (angle not horizontal).
-    is increased by 10 points for each leg that is in contact with the ground.
-    is decreased by 0.03 points each frame a side engine is firing.
-    is decreased by 0.3 points each frame the main engine is firing.
+* is increased/decreased the closer/further the lander is to the landing pad.
+* is increased/decreased the slower/faster the lander is moving.
+* is decreased the more the lander is tilted (angle not horizontal).
+* is increased by 10 points for each leg that is in contact with the ground.
+* is decreased by 0.03 points each frame a side engine is firing.
+* is decreased by 0.3 points each frame the main engine is firing.
 The episode receive an additional reward of -100 or +100 points for crashing or landing safely respectively.
 
 Episode Termination
