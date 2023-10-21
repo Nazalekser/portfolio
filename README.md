@@ -1,5 +1,5 @@
 # Portfolio
-A repository of projects and challenges I have worked on or am currently working on.
+A repository of [projects](https://github.com/Nazalekser/portfolio/tree/main#projects) and challenges I have worked on or am currently working on.
 
 Please contact me via [Linkedin](https://www.linkedin.com/in/alex-alex-312919268/) if you would like to hire a data scientist.
 ## Projects
