@@ -9,4 +9,4 @@ Click on a project to see the analysis and code.
 * The agent has 4 discrete actions available and its observation space consists of a state vector with 8 variables. The total reward of an episode is the sum of the rewards for all the steps within that episode.
 * The project uses a Target Network (with soft update weights) and Experience Replay techniques to avoid instabilities.
 
-<img src="https://github.com/Nazalekser/portfolio/blob/main/Projects/Luna_Lander_Project/images/lunar_lander.gif" width="500">
+    <img src="https://github.com/Nazalekser/portfolio/blob/main/Projects/Luna_Lander_Project/images/lunar_lander.gif" width="500">
