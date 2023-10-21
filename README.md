@@ -10,5 +10,4 @@ Click on a project to see the analysis and code.
 * The project uses a Target Network (with soft update weights) and Experience Replay techniques to avoid instabilities.
 
 [Project description](https://github.com/Nazalekser/portfolio/tree/main/Projects/Luna_Lander_Project)
-
     <img src="https://github.com/Nazalekser/portfolio/blob/main/Projects/Luna_Lander_Project/images/lunar_lander.gif" width="500">
