@@ -12,4 +12,4 @@ Click on a project to see the analysis and code.
 
 ![Luna lander](https://github.com/Nazalekser/portfolio/blob/main/Projects/Luna_Lander_Project/images/lunar_lander.gif)
 
-<img src="https://github.com/Nazalekser/portfolio/blob/main/Projects/Luna_Lander_Project/images/lunar_lander.gif)" width="500">
+<img src="https://github.com/Nazalekser/portfolio/blob/main/Projects/Luna_Lander_Project/images/lunar_lander.gif" width="500">
