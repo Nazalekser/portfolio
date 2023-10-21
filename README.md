@@ -12,3 +12,5 @@ Click on a project to see the analysis and code.
 [Project Description and Insights](https://github.com/Nazalekser/portfolio/tree/main/Projects/Luna_Lander_Project)
 
    <img src="https://github.com/Nazalekser/portfolio/blob/main/Projects/Luna_Lander_Project/images/lunar_lander.gif" width="500">
+
+## Challenges
