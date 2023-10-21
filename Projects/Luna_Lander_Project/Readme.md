@@ -20,7 +20,7 @@ The episode receive an additional reward of -100 or +100 points for crashing or 
 ### Episode Termination
 An episode ends (i.e the environment enters a terminal state) if the lander crashes (i.e if the body of the lander comes in contact with the surface of the moon) or the absolute value of the lander's 𝑥-coordinate is greater than 1 (i.e. it goes beyond the left or right border).
 
-## The standard “agent-environment loop” formalism
+### The standard “agent-environment loop” formalism
 The agent interacts with the environment in discrete time steps 𝑡=0,1,2,.... At each time step 𝑡, the agent uses a policy 𝜋 to select an action 𝐴𝑡 based on its observation of the environment's state 𝑆𝑡. The agent receives a numerical reward 𝑅𝑡 and on the next time step, moves to a new state 𝑆𝑡+1.
 
 ### Target Network
