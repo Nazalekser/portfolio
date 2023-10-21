@@ -10,7 +10,7 @@
 * [My Insights](https://github.com/Nazalekser/portfolio/tree/main/Projects/Luna_Lander_Project#my-insights)
 
 ### The goal
-The goal of the Lunar Lander environment (using OpenAI's Gym Library) is to land the lunar lander safely on the landing pad, which is designated by two flag poles and its center is at coordinates (0,0) but the lander is also allowed to land outside of the landing pad. The lander starts at the top center of the environment with a random initial force applied to its center of mass and has infinite fuel. The environment is considered solved if you get 200 points.
+The goal of the Lunar Lander environment is to land the lunar lander safely on the landing pad, which is designated by two flag poles and its center is at coordinates (0,0) but the lander is also allowed to land outside of the landing pad. The lander starts at the top center of the environment with a random initial force applied to its center of mass and has infinite fuel. The environment is considered solved if you get 200 points.
 
 ### Action Space
 The agent has four discrete actions available: do nothing, fire right engine, fire main engine, fire left engine.
