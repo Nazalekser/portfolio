@@ -7,7 +7,7 @@ The agent has four discrete actions available: do nothing, fire right engine, fi
 ### Observation Space
 The agent's observation space consists of a state vector with 8 variables: its (𝑥,𝑦) coordinates, linear velocities (𝑥˙,𝑦˙), angle 𝜃, angular velocity 𝜃˙, two booleans, 𝑙 and 𝑟, that represent whether each leg is in contact with the ground or not.
 
-###Rewards
+### Rewards
 The total reward of an episode is the sum of the rewards for all the steps within that episode. For each step, the reward:
 * is increased/decreased the closer/further the lander is to the landing pad.
 * is increased/decreased the slower/faster the lander is moving.
