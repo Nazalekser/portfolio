@@ -11,7 +11,7 @@ Click on the project name to see the analysis and code or to Project Description
 * The agent has 4 discrete actions available and its observation space consists of a state vector with 8 variables. The total reward of an episode is the sum of the rewards for all the steps within that episode.
 * The project uses a Target Network (with soft update weights) and Experience Replay techniques to avoid instabilities.
 
-[Project Description](https://github.com/Nazalekser/portfolio/tree/main/Projects/Luna_Lander_Project#project-description)
+[Project Description](https://github.com/Nazalekser/portfolio/blob/main/Projects/Luna_Lander_Project/Readme.md)
 
    <img src="https://github.com/Nazalekser/portfolio/blob/main/Projects/Luna_Lander_Project/videos/lunar_lander.gif" width="500">
    
@@ -24,7 +24,7 @@ Click on the project name to see the analysis and code or to Project Description
 * Interactive visual analytics using Folium and Plotly Dash
 * Predictive analysis using KNN, Decision Tree, SVM, Logistic Regression.
 
-[Project Description](https://github.com/Nazalekser/portfolio/blob/main/Projects/Winning%20Space%20Race/Readme.md#project-description)
+[Project Description](https://github.com/Nazalekser/portfolio/blob/main/Projects/Winning%20Space%20Race/Readme.md)
 
   <img src="https://github.com/Nazalekser/portfolio/blob/main/Projects/Winning%20Space%20Race/My%20presentation.jpg" width="500">
 
