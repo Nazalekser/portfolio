@@ -3,10 +3,8 @@ Background and context:
 * Space Y wants to compete with Space X
 
 Problem:
-
-It is necessary to study the success stories Space X and the best possible launch sites so that Space Y will have lower failure rate.
-
-The launch success rate may depend on many factors such as payload mass, orbit type, and so on. It may also depend on the location and proximities of a launch site, i.e., the initial position of rocket trajectories.
+* It is necessary to study the success stories Space X and the best possible launch sites so that Space Y will have lower failure rate.
+* The launch success rate may depend on many factors such as payload mass, orbit type, and so on. It may also depend on the location and proximities of a launch site, i.e., the initial position of rocket trajectories.
 
 Conclusions:
 * SPACE Y companies might be advised to start by launching not very large loads, as they are the ones with the highest success rate based on the SPACE X story.
