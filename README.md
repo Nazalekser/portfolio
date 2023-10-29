@@ -4,8 +4,6 @@ A repository of projects and challenges I have worked on or am currently working
 
 Click on the project name to see the analysis and code.
 
-Please contact me via [Linkedin](https://www.linkedin.com/in/alex-alex-312919268/) if you would like to hire a data scientist.
-
 ## Projects:
 
 ### [Deep Q-Learning - Lunar Lander](https://github.com/Nazalekser/portfolio/blob/main/Projects/Luna_Lander_Project/Lunar_Lander.ipynb)
