@@ -7,7 +7,6 @@
 * [The standard “agent-environment loop” formalism](https://github.com/Nazalekser/portfolio/tree/main/Projects/Luna_Lander_Project#the-standard-agent-environment-loop-formalism)
 * [Target Network](https://github.com/Nazalekser/portfolio/tree/main/Projects/Luna_Lander_Project#target-network)
 * [Experience Replay](https://github.com/Nazalekser/portfolio/tree/main/Projects/Luna_Lander_Project#experience-replay)
-* [My Insights](https://github.com/Nazalekser/portfolio/tree/main/Projects/Luna_Lander_Project#my-insights)
 
 ### The goal
 The goal of the Lunar Lander environment is to land the lunar lander safely on the landing pad, which is designated by two flag poles and its center is at coordinates (0,0) but the lander is also allowed to land outside of the landing pad. The lander starts at the top center of the environment with a random initial force applied to its center of mass and has infinite fuel. The environment is considered solved if you get 200 points.
@@ -40,5 +39,3 @@ To avoid a constantly moving target (can lead to oscillations and instabilities)
 
 ### Experience Replay
 To avoid correlations (learn from consecutive experiences can run into problems due to the strong correlations), we employ Experience Replay (storing the agent's experiences in a memory buffer and then sampling a random mini-batch of experiences from the buffer) to generate uncorrelated experiences for training our agent.
-
-### My Insights
