@@ -13,7 +13,7 @@
 * The collected data were cleaned up and converted into a format that can be summarized in the final data
 * Perform exploratory data analysis (EDA) using visualization and SQL
 * Perform interactive visual analytics using Folium and Plotly Dash
-* Perform predictive analysis using classification models
+* Predictive analysis using KNN, Decision Tree, SVM, Logistic Regression
 
 ### Conclusions:
 * SPACE Y company might be advised to start by launching not very large loads, as they are the ones with the highest success rate based on the SPACE X story
