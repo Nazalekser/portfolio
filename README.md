@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-A repository of projects and challenges I have worked on or am currently working on. Click on the project name to see the analysis and code.
+A repository of projects and challenges I have worked on or am currently working on.
 
 Please contact me via [Linkedin](https://www.linkedin.com/in/alex-alex-312919268/) if you would like to hire a data scientist.
 
@@ -10,6 +10,7 @@ Please contact me via [Linkedin](https://www.linkedin.com/in/alex-alex-312919268
   
 
 ## Projects:
+Click on the project name to see the analysis and code.
 
 ### [Deep Q-Learning - Lunar Lander](https://github.com/Nazalekser/portfolio/blob/main/Projects/Luna_Lander_Project/Lunar_Lander.ipynb)
 * Land the lander safely on the landing pad using OpenAI's Gym Library.
