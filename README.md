@@ -13,7 +13,7 @@ Please contact me via [Linkedin](https://www.linkedin.com/in/alex-alex-312919268
 
 [Project Description](https://github.com/Nazalekser/portfolio/tree/main/Projects/Luna_Lander_Project#project-description)
 
-   <img src="https://github.com/Nazalekser/portfolio/blob/main/Projects/Luna_Lander_Project/images/lunar_lander.gif" width="500">
+   <img src="https://github.com/Nazalekser/portfolio/blob/main/Projects/Luna_Lander_Project/videos/lunar_lander.gif" width="500">
    
 ---
 
