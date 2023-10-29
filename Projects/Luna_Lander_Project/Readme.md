@@ -1,14 +1,5 @@
 ## Project Description
-* [The goal](https://github.com/Nazalekser/portfolio/tree/main/Projects/Luna_Lander_Project#the-goal)
-* [Action Space](https://github.com/Nazalekser/portfolio/tree/main/Projects/Luna_Lander_Project#action-space)
-* [Observation Space](https://github.com/Nazalekser/portfolio/tree/main/Projects/Luna_Lander_Project#observation-space)
-* [Rewards](https://github.com/Nazalekser/portfolio/tree/main/Projects/Luna_Lander_Project#rewards)
-* [Episode Termination](https://github.com/Nazalekser/portfolio/tree/main/Projects/Luna_Lander_Project#episode-termination)
-* [The standard “agent-environment loop” formalism](https://github.com/Nazalekser/portfolio/tree/main/Projects/Luna_Lander_Project#the-standard-agent-environment-loop-formalism)
-* [Target Network](https://github.com/Nazalekser/portfolio/tree/main/Projects/Luna_Lander_Project#target-network)
-* [Experience Replay](https://github.com/Nazalekser/portfolio/tree/main/Projects/Luna_Lander_Project#experience-replay)
 
-### The goal
 The goal of the Lunar Lander environment is to land the lunar lander safely on the landing pad, which is designated by two flag poles and its center is at coordinates (0,0) but the lander is also allowed to land outside of the landing pad. The lander starts at the top center of the environment with a random initial force applied to its center of mass and has infinite fuel. The environment is considered solved if you get 200 points.
 
 ### Action Space
