@@ -18,11 +18,12 @@ Click on the project name to see the analysis and code or to Project Description
 ---
 
 ### [Winning Space Race](https://docs.google.com/presentation/d/1DRCCmKFTf5TxLaYAUW6bv3_el0f9WQzFUWUNY41vrP0/edit?usp=drive_link)
+* Make recommendations to Space Y, a company that wants to compete with Space X, based on Space X's experience
 * Data collection using SpaceX REST API and Web Scraping
-* Data Wrangling
+* Clean up and convert the data into a format that can be summarized in the final data
 * EDA with Data Visualization and SQL
 * Interactive visual analytics using Folium and Plotly Dash
-* Predictive analysis using KNN, Decision Tree, SVM, Logistic Regression.
+* Perform predictive analysis using classification models
 
 [Project Description](https://github.com/Nazalekser/portfolio/blob/main/Projects/Winning%20Space%20Race/Readme.md)
 
