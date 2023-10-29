@@ -9,7 +9,7 @@ Problem:
 * The launch success rate may depend on many factors such as payload mass, orbit type, and so on. It may also depend on the location and proximities of a launch site, i.e., the initial position of rocket trajectories.
 
 Conclusions:
-* SPACE Y companies might be advised to start by launching not very large loads, as they are the ones with the highest success rate based on the SPACE X story.
+* SPACE Y company might be advised to start by launching not very large loads, as they are the ones with the highest success rate based on the SPACE X story.
 * It should launch from the KSC-LC 39A launch site, which has had more successful launches than the others.
 * It should choose orbits with higher launch success rates: ORBIT GEO, HEO, SSO, ES-L1
 * The longer SPACE Y takes to make launches, the higher its success rate will be.
