@@ -1,8 +1,9 @@
-Background and context
+Background and context:
 * Space X has the best launch prices for Falcon 9 rockets ($62 million vs. $165 million USD for others) due to the reuse of the first stage. 
 * Space Y wants to compete with Space X
 
-Problem
+Problem:
+
 It is necessary to study the success stories Space X and the best possible launch sites so that Space Y will have lower failure rate.
 
 The launch success rate may depend on many factors such as payload mass, orbit type, and so on. It may also depend on the location and proximities of a launch site, i.e., the initial position of rocket trajectories.
