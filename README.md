@@ -30,7 +30,7 @@ Click on the project name to see the analysis and code.
 * Interactive visual analytics using Folium and Plotly Dash
 * Predictive analysis using KNN, Decision Tree, SVM, Logistic Regression.
 
-[Project Description](https://github.com/Nazalekser/portfolio/blob/main/Projects/Winning%20Space%20Race/Readme.md#project-description)
+[Project Description](https://github.com/Nazalekser/portfolio/tree/main/Projects/Winning%20Space%20Race#project-description)
 
   <img src="https://github.com/Nazalekser/portfolio/blob/main/Projects/Winning%20Space%20Race/My%20presentation.jpg" width="500">
 
