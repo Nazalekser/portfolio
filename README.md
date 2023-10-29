@@ -21,4 +21,14 @@ Please contact me via [Linkedin](https://www.linkedin.com/in/alex-alex-312919268
    
 ---
 
+## [Winning Space Race (Coursera)](https://docs.google.com/presentation/d/1DRCCmKFTf5TxLaYAUW6bv3_el0f9WQzFUWUNY41vrP0/edit?usp=drive_link)
+* Data collection using SpaceX REST API and Web Scraping
+* Data Wrangling
+* EDA with Data Visualization and SQL
+* Interactive visual analytics using Folium and Plotly Dash
+* Predictive analysis using KNN, Decision Tree, SVM, Logistic Regression.
+
+<img src="https://github.com/Nazalekser/portfolio/blob/main/Projects/Winning%20Space%20Race/My%20presentation.jpg" width="500">
+
+
 ## Challenges
