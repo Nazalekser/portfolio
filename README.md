@@ -21,7 +21,7 @@ Please contact me via [Linkedin](https://www.linkedin.com/in/alex-alex-312919268
    
 ---
 
-## [Winning Space Race](https://docs.google.com/presentation/d/1DRCCmKFTf5TxLaYAUW6bv3_el0f9WQzFUWUNY41vrP0/edit?usp=drive_link)
+### [Winning Space Race](https://docs.google.com/presentation/d/1DRCCmKFTf5TxLaYAUW6bv3_el0f9WQzFUWUNY41vrP0/edit?usp=drive_link)
 * Data collection using SpaceX REST API and Web Scraping
 * Data Wrangling
 * EDA with Data Visualization and SQL
