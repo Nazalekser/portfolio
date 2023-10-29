@@ -1,4 +1,4 @@
-## Project Description and Insights
+## Project Description
 * [The goal](https://github.com/Nazalekser/portfolio/tree/main/Projects/Luna_Lander_Project#the-goal)
 * [Action Space](https://github.com/Nazalekser/portfolio/tree/main/Projects/Luna_Lander_Project#action-space)
 * [Observation Space](https://github.com/Nazalekser/portfolio/tree/main/Projects/Luna_Lander_Project#observation-space)
