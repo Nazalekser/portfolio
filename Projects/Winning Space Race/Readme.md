@@ -17,7 +17,7 @@
 * The collected data were splited, different classification models were built, and their accuracy was evaluated
 
 
-###Conclusions:
+### Conclusions:
 * SPACE Y company might be advised to start by launching not very large loads, as they are the ones with the highest success rate based on the SPACE X story
 * It should launch from the KSC-LC 39A launch site, which has had more successful launches than the others
 * It should choose orbits with higher launch success rates: ORBIT GEO, HEO, SSO, ES-L1
