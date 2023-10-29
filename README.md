@@ -6,6 +6,7 @@ Please contact me via [Linkedin](https://www.linkedin.com/in/alex-alex-312919268
 
 - [Projects](https://github.com/Nazalekser/portfolio/blob/main/README.md#projects)
   - [Deep Q-Learning - Lunar Lander](https://github.com/Nazalekser/portfolio/blob/main/Projects/Luna_Lander_Project/Lunar_Lander.ipynb)
+  - [Winning Space Race]()
   
 
 ## Projects:
