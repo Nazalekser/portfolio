@@ -18,7 +18,7 @@ Click on the project name to see the analysis and code or to Project Description
 ---
 
 ### [Winning Space Race](https://docs.google.com/presentation/d/1DRCCmKFTf5TxLaYAUW6bv3_el0f9WQzFUWUNY41vrP0/edit?usp=drive_link)
-* Make recommendations to Space Y, a company that wants to compete with Space X, based on Space X's experience
+* Make recommendations to Space Y, a company that wants to compete with Space X
 * Data collection using SpaceX REST API and Web Scraping
 * Clean up and convert the data into a format that can be summarized in the final data
 * EDA with Data Visualization and SQL
