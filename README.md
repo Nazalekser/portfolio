@@ -29,5 +29,20 @@ Click on the project name to see the analysis and code or to Project Description
 
   <img src="https://github.com/Nazalekser/portfolio/blob/main/Projects/Winning%20Space%20Race/My%20presentation.jpg" width="500">
 
+---
+
+### Flower Classification with TPUs (one model)
+### Flower Classification with TPUs (assembled)
+The task is to identify the type of flowers (total 104 types) in a dataset of images
+* Create the distribution strategy to train with TPU
+* Load the data in .tfrec format, decode images, read labled and unlabeled data
+* Define augmengation strategy (random erasing, random flip left and right)
+* Define learing rate shedule (linear increase + exponential decay)
+* Choose base model (EfficientNet, DenseNet, Xception)
+* Evaluate predictions
+* Assemble models
+
+
+
 
 ## Challenges
