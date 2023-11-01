@@ -42,7 +42,10 @@ The task is to identify the type of flowers (total 104 types) in a dataset of im
 * Evaluate predictions
 * Assemble models
 
+[Project Description]()
 
+   <img src="https://github.com/Nazalekser/portfolio/blob/main/Projects/Flower Classification with TPUs/images/flowers.jpg" width="500">
 
+---
 
 ## Challenges
