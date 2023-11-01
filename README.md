@@ -8,9 +8,10 @@ Click on the project name to see the analysis and code or to Project Description
 
 ### Flower Classification with TPUs (one model)
 ### Flower Classification with TPUs (assembled)
-The task is to identify the type of flowers (total 104 types) in a dataset of images
 
    <img src="https://github.com/Nazalekser/portfolio/blob/main/Projects/Flower Classification with TPUs/images/flowers.jpg" width="500">
+
+The task is to identify the type of flowers (total 104 types) in a dataset of images
     
 Steps:
 * Create the distribution strategy to train with TPU
@@ -26,9 +27,10 @@ Steps:
 ---
 
 ### [Winning Space Race](https://docs.google.com/presentation/d/1DRCCmKFTf5TxLaYAUW6bv3_el0f9WQzFUWUNY41vrP0/edit?usp=drive_link)
-The task is to make recommendations to Space Y, a company that wants to compete with Space X
    
   <img src="https://github.com/Nazalekser/portfolio/blob/main/Projects/Winning%20Space%20Race/My%20presentation.jpg" width="500">
+
+The task is to make recommendations to Space Y, a company that wants to compete with Space X
 
 Steps:
 * Data collection using SpaceX REST API and Web Scraping
@@ -43,11 +45,13 @@ Steps:
 
 ### [Deep Q-Learning - Lunar Lander](https://github.com/Nazalekser/portfolio/blob/main/Projects/Luna_Lander_Project/Lunar_Lander.ipynb)
 
-The task is to land the lander safely on the landing pad using OpenAI's Gym Library
-
    <img src="https://github.com/Nazalekser/portfolio/blob/main/Projects/Luna_Lander_Project/videos/lunar_lander.gif" width="500">
 
-* The agent has 4 discrete actions available and its observation space consists of a state vector with 8 variables. The total reward of an episode is the sum of the rewards for all the steps within that episode.
+The task is to land the lander safely on the landing pad using OpenAI's Gym Library
+
+Steps
+* The agent has 4 discrete actions available and its observation space consists of a state vector with 8 variables.
+* The total reward of an episode is the sum of the rewards for all the steps within that episode.
 * The project uses a Target Network (with soft update weights) and Experience Replay techniques to avoid instabilities.
 
 [Project Description](https://github.com/Nazalekser/portfolio/blob/main/Projects/Luna_Lander_Project/Readme.md)
