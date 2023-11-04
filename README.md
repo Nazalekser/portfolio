@@ -49,7 +49,7 @@ Steps:
 
 The task is to land the lander safely on the landing pad using OpenAI's Gym Library
 
-Steps
+* We use the standard “agent-environment loop” formalism.
 * The agent has 4 discrete actions available and its observation space consists of a state vector with 8 variables.
 * The total reward of an episode is the sum of the rewards for all the steps within that episode.
 * The project uses a Target Network (with soft update weights) and Experience Replay techniques to avoid instabilities.
