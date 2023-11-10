@@ -6,7 +6,7 @@ Click on the project name to see the analysis and code or to Project Description
 
 ## Projects:
 
-### Flower Classification with TPUs (one model)
+### [Flower Classification with TPUs (one model)](https://github.com/Nazalekser/portfolio/blob/main/Projects/Flower%20Classification%20with%20TPUs/flower-classification-with-tpus-one-model.ipynb)
 ### Flower Classification with TPUs (assembled)
 
    <img src="https://github.com/Nazalekser/portfolio/blob/main/Projects/Flower Classification with TPUs/images/flowers.jpg" width="500">
