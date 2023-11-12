@@ -30,7 +30,7 @@ Steps:
    
   <img src="https://github.com/Nazalekser/portfolio/blob/main/Projects/Winning%20Space%20Race/My%20presentation.jpg" width="500">
 
-The task is to make recommendations to Space Y, a company that wants to compete with Space X
+The task is to make recommendations to Space Y, a company that wants to compete with Space X. The presentation file contains all the necessary references with code and analysis.
 
 Steps:
 * Data collection using SpaceX REST API and Web Scraping
