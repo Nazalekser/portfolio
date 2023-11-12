@@ -10,11 +10,8 @@ TPUs are powerful hardware accelerators specialized in deep learning tasks. They
   <img src="https://storage.googleapis.com/kaggle-media/tpu/tpu_cores_and_chips.png" width="500">
 At approximately 20 inches (50 cm), a TPU v3-8 board is a fairly sizeable piece of hardware. It sports 4 dual-core TPU chips for a total of 8 TPU cores. Each TPU core has a traditional vector processing part (VPU) as well as dedicated matrix multiplication hardware capable of processing 128x128 matrices. This is the part that specifically accelerates machine learning workloads. TPUs are equipped with 128GB of high-speed memory allowing larger batches, larger models and also larger training inputs. 
 
----
 
-Because TPUs are very fast, many models ported to TPU end up with a data bottleneck. The TPU is sitting idle, waiting for data for the most part of each training epoch. TPUs read training data exclusively from GCS (Google Cloud Storage). And GCS can sustain a pretty large throughput if it is continuously streaming from multiple files in parallel. 
-
-Following a couple of best practices will optimize the throughput:
+Because TPUs are very fast, many models ported to TPU end up with a data bottleneck. The TPU is sitting idle, waiting for data for the most part of each training epoch. TPUs read training data exclusively from GCS (Google Cloud Storage). And GCS can sustain a pretty large throughput if it is continuously streaming from multiple files in parallel. Following a couple of best practices will optimize the throughput:
 
     For TPU training, organize your data in GCS in a reasonable number (10s to 100s) of reasonably large files (10s to 100s of MB). 
 
