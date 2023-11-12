@@ -20,7 +20,7 @@ Steps:
 * Define learing rate shedule (linear increase + exponential decay)
 * Choose base model (EfficientNet, DenseNet, Xception)
 * Evaluate predictions
-* Assemble models
+* Ensemble models
 
 [Project Description]()
    
