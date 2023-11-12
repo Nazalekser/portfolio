@@ -8,3 +8,6 @@ Each file contains the id, label (the class of the sample, for training data) an
 TPUs are powerful hardware accelerators specialized in deep learning tasks. They were developed (and first used) by Google to process large image databases, such as extracting all the text from Street View.
 
   <img src="https://storage.googleapis.com/kaggle-media/tpu/tpu_cores_and_chips.png" width="500">
+At approximately 20 inches (50 cm), a TPU v3-8 board is a fairly sizeable piece of hardware. It sports 4 dual-core TPU chips for a total of 8 TPU cores. Each TPU core has a traditional vector processing part (VPU) as well as dedicated matrix multiplication hardware capable of processing 128x128 matrices. This is the part that specifically accelerates machine learning workloads. TPUs are equipped with 128GB of high-speed memory allowing larger batches, larger models and also larger training inputs. 
+
+TPUs are now available on Kaggle, for free. You can use up to 20 hours per week of TPUs and up to 9h at a time in a single session. 
