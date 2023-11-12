@@ -22,7 +22,7 @@ Steps:
 * Evaluate predictions
 * Ensemble models
 
-[Project Description]()
+[Project Description](https://github.com/Nazalekser/portfolio/blob/main/Projects/Flower%20Classification%20with%20TPUs/Readme.md)
    
 ---
 
