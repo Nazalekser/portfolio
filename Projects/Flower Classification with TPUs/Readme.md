@@ -13,5 +13,3 @@ At approximately 20 inches (50 cm), a TPU v3-8 board is a fairly sizeable piece 
 Because TPUs are very fast, many models ported to TPU end up with a data bottleneck. The TPU is sitting idle, waiting for data for the most part of each training epoch. TPUs read training data exclusively from GCS (Google Cloud Storage). And GCS can sustain a pretty large throughput if it is continuously streaming from multiple files in parallel. Following a couple of best practices will optimize the throughput:
 
     For TPU training, organize your data in GCS in a reasonable number (10s to 100s) of reasonably large files (10s to 100s of MB). 
-
-TPUs are now available on Kaggle, for free. You can use up to 20 hours per week of TPUs and up to 9h at a time in a single session. 
