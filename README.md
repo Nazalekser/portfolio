@@ -58,8 +58,22 @@ The task is to land the lander safely on the landing pad using OpenAI's Gym Libr
 
 ---
 
-### [Neural Translation Model]()
+### [Neural Translation Model](https://github.com/Nazalekser/portfolio/blob/main/Projects/Neural%20translation%20model/2_5_Capstone_Project.ipynb)
 
    <img src="https://github.com/Nazalekser/portfolio/blob/main/Projects/Neural%20translation%20model/neural_translation_model_and_key.jpg" width="500">
+
+The task is to develop a neural translation model from English to German
+
+Steps:
+* Text preprocessing - use character filters, tokenizing sentenses
+* Prepare the data - splite the data at val and train sets, split at sentences, use tf.data.Dataset object and  pre-trained English word embedding module from TensorFlow Hub. Cutting off, padding, batching datasets.
+* Create the end token custom layer to add the learned end token embedding to the encoder model using layer subclassing.
+* Build the RNN encoder model: end token + masking  + LSTM layer
+* Make a custom training loop to train custom neural translation model with the function than computes the forward and backward pass. Decorate the function
+* Use the model to translate
+
+[Project Description](https://github.com/Nazalekser/portfolio/blob/main/Projects/Neural%20translation%20model/Readme.md)
+
+---
 
 ## Challenges
