@@ -60,6 +60,6 @@ The task is to land the lander safely on the landing pad using OpenAI's Gym Libr
 
 ### [Neural Translation Model]()
 
-   <img src="https://docs.google.com/uc?export=download&id=1XsS1VlXoaEo-RbYNilJ9jcscNZvsSPm/neural_translation_model.png" width="500">
+   <img src="https://docs.google.com/uc?export=download&id=1XsS1VlXoaEo-RbYNilJ9jcscNZvsSPm" width="500">
 
 ## Challenges
