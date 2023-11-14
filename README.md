@@ -22,7 +22,7 @@ Steps:
 * Evaluate predictions
 * Ensemble models
 
-[Project Description](https://github.com/Nazalekser/portfolio/blob/main/Projects/Flower%20Classification%20with%20TPUs/Readme.md)
+[Brief Project Description](https://github.com/Nazalekser/portfolio/blob/main/Projects/Flower%20Classification%20with%20TPUs/Readme.md)
    
 ---
 
@@ -39,7 +39,7 @@ Steps:
 * Interactive visual analytics using Folium and Plotly Dash
 * Perform predictive analysis using classification models
 
-[Project Description](https://github.com/Nazalekser/portfolio/blob/main/Projects/Winning%20Space%20Race/Readme.md)
+[Brief Project Description](https://github.com/Nazalekser/portfolio/blob/main/Projects/Winning%20Space%20Race/Readme.md)
 
 ---
 
@@ -54,7 +54,7 @@ The task is to land the lander safely on the landing pad using OpenAI's Gym Libr
 * The total reward of an episode is the sum of the rewards for all the steps within that episode.
 * The project uses a Target Network (with soft update weights) and Experience Replay techniques to avoid instabilities.
 
-[Project Description](https://github.com/Nazalekser/portfolio/blob/main/Projects/Luna_Lander_Project/Readme.md)
+[Brief Project Description](https://github.com/Nazalekser/portfolio/blob/main/Projects/Luna_Lander_Project/Readme.md)
 
 ---
 
@@ -72,7 +72,7 @@ Steps:
 * Make a custom training loop to train custom neural translation model with the function than computes the forward and backward pass. Decorate the function
 * Use the model to translate
 
-[Project Description](https://github.com/Nazalekser/portfolio/blob/main/Projects/Neural%20translation%20model/Readme.md)
+[Brief Project Description](https://github.com/Nazalekser/portfolio/blob/main/Projects/Neural%20translation%20model/Readme.md)
 
 ---
 
