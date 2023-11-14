@@ -2,7 +2,7 @@
 
 A repository of projects and challenges I have worked on or am currently working on.
 
-Click on the project name to see the analysis and code or to Project Description link to see a brief description of the project.
+Click on the project name to see the analysis and code or to Brief Project Description link to see a brief description of the project.
 
 ## Projects:
 
