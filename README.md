@@ -76,4 +76,8 @@ Steps:
 
 ---
 
-## Challenges
+## [Python Challenges](https://github.com/Nazalekser/portfolio/tree/main/Python)
+
+Here is my work with python challenges from HackerRank.
+
+---
