@@ -81,3 +81,9 @@ Steps:
 Here is my work with python challenges from HackerRank.
 
 ---
+
+## [SQL Challenges]()
+
+Here is my work with SQL tasks as I'm learning.
+
+---
