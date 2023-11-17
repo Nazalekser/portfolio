@@ -88,6 +88,6 @@ Here's my work with SQL tasks as I'm learning.
 
 ---
 
-## [Apache Spark](https://github.com/Nazalekser/portfolio/tree/main/Apache%20Spark%20SQL)
+## [Apache Spark SQL](https://github.com/Nazalekser/portfolio/tree/main/Apache%20Spark%20SQL)
 
-Here's my work with Apache Spark as I'm learning.
+Here's my work with Apache Spark SQL as I'm learning.
