@@ -78,12 +78,16 @@ Steps:
 
 ## [Python Challenges](https://github.com/Nazalekser/portfolio/tree/main/Python)
 
-Here is my work with python challenges from HackerRank.
+Here's my work with python challenges from HackerRank.
 
 ---
 
-## [SQL Challenges]()
+## [SQL Challenges](https://github.com/Nazalekser/portfolio/tree/main/SQL)
 
-Here is my work with SQL tasks as I'm learning.
+Here's my work with SQL tasks as I'm learning.
 
 ---
+
+## [Apache Spark](https://github.com/Nazalekser/portfolio/tree/main/Apache%20Spark%20SQL)
+
+Here's my work with Apache Spark as I'm learning.
